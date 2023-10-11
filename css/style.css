@@ -1,12 +1,13 @@
 body {
-  background-color: #b084cc;
+  background-color: #665687;
   font-family:system-ui;
-  color: #190933;
+  color: #acfcd9;
   text-align: center;
 }
 
 h1 {
   font-size: 64px;
+  color: #190933;
   text-align: center;
   background-color: #acfcd9;
   border: 2px solid;
