@@ -1,4 +1,18 @@
 td, th {
-	border: 1px solid;
-  }
-  
+	border: 2px solid;
+  border-color: #190933;
+  text-align: center;
+}
+
+h1 {
+  font-size: 64px;
+
+}
+
+p {
+  color: #190933;
+}
+
+html {
+  color: #acfcd9;
+}
