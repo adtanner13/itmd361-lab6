@@ -7,6 +7,10 @@ h1 {
   font-size: 64px;
   color: #190933;
   text-align: center;
+  background-color: #acfcd9;
+  border: 2px solid;
+  border-color: #190933;
+  font-weight: bold;
 }
 
 p {
@@ -20,12 +24,12 @@ td, th {
   color: #190933;
   text-align: center;
   font-size: 28px;
-  font-family: Arial, sans-serif;
+  font-family: monospace;
 }
 
-table {
+#planets {
   text-align: center;
-  background-color: #acfcd9;
+  background-color: #b084cc;
   border: 6px solid;
   border-color: #190933;
   border-collapse: collapse;
