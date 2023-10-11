@@ -1,21 +1,17 @@
 body {
   background-color: #b084cc;
   font-family:system-ui;
+  color: #190933;
+  text-align: center;
 }
 
 h1 {
   font-size: 64px;
-  color: #190933;
   text-align: center;
   background-color: #acfcd9;
   border: 2px solid;
   border-color: #190933;
   font-weight: bold;
-}
-
-p {
-  color: #190933;
-  text-align: center;
 }
 
 td, th {
@@ -38,8 +34,6 @@ td, th {
   width: 80%;
   height: 600px;
 }
-
-
 
 html {
   background-color: #b084cc;
