@@ -12,10 +12,19 @@ p {
   color: #190933;
 }
 
+.col1 {
+  font-weight: bold;
+}
+
+.row1 {
+  font-weight: bold;
+}
+
 table {
   border: 6px solid;
+  background-color: #acfcd9;
 }
 
 html {
-  color: #acfcd9;
+  background-color: #b084cc;
 }
