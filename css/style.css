@@ -1,6 +1,6 @@
 body {
   background-color: #665687;
-  font-family:system-ui;
+  font-family: monospace;
   color: #acfcd9;
   text-align: center;
 }
@@ -8,7 +8,6 @@ body {
 h1 {
   font-size: 64px;
   color: #190933;
-  text-align: center;
   background-color: #acfcd9;
   border: 2px solid;
   border-color: #190933;
@@ -16,26 +15,16 @@ h1 {
 }
 
 td, th {
-	border: 2px solid;
-  border-color: #190933;
-  color: #190933;
-  text-align: center;
-  font-size: 28px;
-  font-family: monospace;
+  border: 2px solid;
 }
 
 #planets {
-  text-align: center;
   background-color: #b084cc;
   border: 6px solid;
-  border-color: #190933;
   border-collapse: collapse;
   margin: auto;
-  margin-top: 40 px;
   width: 80%;
   height: 600px;
-}
-
-html {
-  background-color: #b084cc;
+  color: #190933;
+  font-size: 28px;
 }
