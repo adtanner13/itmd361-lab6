@@ -17,9 +17,15 @@ p {
 }
 
 table {
-  border: 6px solid;
   text-align: center;
   background-color: #acfcd9;
+  border: 6px solid;
+  border-color: #190933;
+  border-collapse: collapse;
+  margin: auto;
+  margin-top: 40 px;
+  width: 80%;
+  height: 600px;
 }
 
 html {
